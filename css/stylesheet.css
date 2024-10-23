@@ -9,5 +9,6 @@ body {
 }
 
 .card {
+  text-align: center;
   background-color: black;
 }
